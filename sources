@@ -1,7 +1,6 @@
 <html>
   <head>
     <title>Government Monitoring:References</title>
-
     <style>
       body {background-color: #EDE8D0; font-family: tahoma, verdana;}
       h1 {text-align:center;}
@@ -13,8 +12,8 @@
     <h1>References</h1>
     <br>
     <h2>Resources Used:</h2>
-      <p>“Clearview AI Mission”.</p><i>Clearview.</i>
-      <p> <a href="https://www.clearview.ai/">https://www.clearview.ai/</a></p>
+      <p>“Clearview AI Mission”. <i>Clearview.</i></p>
+      <p> <a href="https://www.clearview.ai/">link</a></p>
 
 
 
